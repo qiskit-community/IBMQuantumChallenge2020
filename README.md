@@ -1,6 +1,6 @@
 <!--![image of qcchallenge logo](qcc_banner.png) -->
 # Welcome to IBM Quantum Challenge!
-[한글 여기요](#ibm-quantum-challenge에 오신 것을 환영합니다)<br/>
+[한글 여기요](#ibm-quantum-challenge환영합니다)<br/>
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 
 
@@ -66,7 +66,7 @@ The challenge content has been shared with the public on the following dates.<br
 | Week 3  |Final Challenge | Nov 23th 2020 |
 
 --------------------------------
-# ibm-quantum-challenge에 오신 것을 환영합니다！
+# ibm-quantum-challenge환영합니다！
 2020년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
 
 2019 년 11 월에 첫 번째 치열한 코딩 콘테스트 인 [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)가 열렸으며, 전 세계의 노련한 코더와 초보자 모두가 퀀텀 컴퓨팅에서 여정을 시작했습니다. 2020 년 5 월, [IBM Qunatum Experience](https://quantum-computing.ibm.com/)의 4 주년을 기념하여 45 개국 1,745 명이 함께 모여 4 개의 문제를 해결하기 위해 IBM Quantum Experience가 하루에 10 억 개 회로를 초과하는 IBM Cloud의 18 개 IBM Quantum 시스템을 사용했습니다.
@@ -97,7 +97,7 @@ $ pip install qiskit
 차근차근 설치법을 확인해주세요 [Qiskit 설치](https://qiskit.org/documentation/install.html) or [유튜브 비디오](https://www.youtube.com/watch?v=M4EkW4VwhcI) 
 
 ## 챌린지 순서
-챌린지 콘텐츠는 다음 날짜에 대중에게 공개되었습니다.<br/>
+챌린지 콘텐츠는 다음 날짜에 공개되었습니다.<br/>
 
 | 주|도전과제| 업데이트 예정일 |
 | ---     | ---    | --- |
