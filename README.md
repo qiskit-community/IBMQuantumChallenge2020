@@ -8,26 +8,14 @@
 
 As we approach the end of 2020, we would like to engage the community with new exciting set of challenges, and further push limits of our quantum systems to achieve another yet significant milestone. 
 
-2020년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
-
 Our first competitive coding contest [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)  was held in November 2019, attracting both seasoned coders and newbies from all over the world to start their journey in Quantum Computing.
 In May 2020, we celebrated our fourth anniversary of IBM Quantum Experience with another Challenge where 1,745 people from 45 countries came together to solve four problems making total use of the 18 IBM Quantum systems on the IBM Cloud exceeding 1 billion circuits a day. 
 
-2019 년 11 월에 첫 번째 치열한 코딩 콘테스트 인 IBM Quantum Challenge가 열렸으며, 전 세계의 노련한 코더와 초보자 모두가 퀀텀 컴퓨팅에서 여정을 시작했습니다. 2020 년 5 월, IBM Quantum Experience의 4 주년을 기념하여 45 개국 1,745 명이 함께 모여 4 개의 문제를 해결하기 위해 IBM Quantum Experience가 하루에 10 억 개 회로를 초과하는 IBM Cloud의 18 개 IBM Quantum 시스템을 사용했습니다.
-
-
 Starting Nov 9th at 9am JST, we present you with three weeks of new challenges that will help grow your knowledge, skills, and understanding of quantum computing and Qiskit to tackle problems using some well-known quantum algorithms.
-
-11 월 9 일 오전 9시 (JST)부터 양자 컴퓨팅 및 Qiskit에 대한 지식, 기술 및 이해를 높이는 데 도움이되는 3 주간의 새로운 과제를 제공하여 잘 알려진 양자 알고리즘을 사용하여 문제를 해결합니다.
 
 In recognition of your participation, we are awarding digital badges to those who complete all exercises.
 
-
 Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
-
-당신의 참여를 인정하여, 우리는 모든 연습문제를 완료한 사람들에게 디지털 배지를 수여하고 있다.
-
-참가 신청 및 챌린지 주최 측의 공식 확인을 받은 자에 한하여 참여가 허용된다는 점에 유의하십시오.
 
 ## Programming Environment
 IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer. 
@@ -36,16 +24,8 @@ On Nov 9, 2020 when the challenge site opens, participants will see a set of exe
 
 Please note that the challenge site with exercises hosted in this Jupyter notebook environment is only accessible by applicants who confirmed participation upon receiving a confirmation email from the event organizers. 
 
-IBM Quantum Challenge는 IBM Quantum Experience (일명 IQX)에서 호스팅됩니다. IQX를 사용하면 컴퓨터에 아무것도 다운로드하지 않고도 자체 포함 된 Jupyter 노트북 환경에서 양자 회로를 구축, 실행 및 평가할 수 있습니다.
-
-2020 년 11 월 9 일 챌린지 사이트가 열리면 참가자는 코드를 직접 작성하고 실행하고 답변을 제출할 수있는이 독립형 Jupyter 노트북 환경에서 호스팅되는 일련의 연습 문제를 보게됩니다.
-
-이 Jupyter 노트북 환경에서 호스팅되는 연습 문제가있는 챌린지 사이트는 이벤트 주최자로부터 확인 이메일을 받고 참여를 확인한 신청자 만 액세스 할 수 있습니다.
-
 ## Preparation
 In many cases, you may prefer to run your code locally when working on the exercises before you make your submission in the IBM Quantum Experience environment. In such case, you will need to install **Qiskit** to your computer. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
-
-대부분의 경우 IBM Quantum Experience 환경에서 제출하기 전에 실습을 진행할 때 로컬에서 코드를 실행하는 것을 선호 할 수 있습니다. 이 경우 컴퓨터에 Qiskit을 설치해야합니다. Qiskit은 펄스, 회로 및 알고리즘 수준에서 양자 컴퓨터 작업을위한 Python 기반 오픈 소스 프레임 워크입니다. 자세한 내용은 Qiskit.org 페이지를 참조하십시오.
 
 Qiskit can be installed by using *pip*:
 
