@@ -12,7 +12,7 @@ Our first competitive coding contest [IBM Quantum Challenge](https://ibmquantum.
 In May 2020, we celebrated our fourth anniversary of IBM Quantum Experience with another Challenge where 1,745 people from 45 countries came together to solve four problems making total use of the 18 IBM Quantum systems on the IBM Cloud exceeding 1 billion circuits a day. 
 
 
-Starting Nov 9th at 9am JST, we present you with three weeks of new challenges that will help grow your knowledge, skills, and understanding of quantum computing and Qiskit to tackle a real-life problem using some well-known quantum algorithms.
+Starting Nov 9th at 9am JST, we present you with three weeks of new challenges that will help grow your knowledge, skills, and understanding of quantum computing and Qiskit to tackle problems using some well-known quantum algorithms.
 
 
 In recognition of your participation, we are awarding digital badges to those who complete all exercises.
@@ -20,9 +20,16 @@ In recognition of your participation, we are awarding digital badges to those wh
 
 Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
 
+## Programming Environment
+IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer. 
+
+On Nov 9, 2020 when the challenge site opens, participants will see a set of exercises hosted in this self-contained Jupyter notebook environment where you can write and run your code directly from and make submissions of your answers. 
+
+Please note that the challenge site with exercises hosted in this Jupyter notebook environment is only accessible by applicants who confirmed participation upon receiving a confirmation email from the event organizers. 
+
 
 ## Preparation
-In IBM Quantum Challenge, you will need to code with **Qiskit**. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
+In many cases, you may prefer to run your code locally when working on the exercises before you make your submission in the IBM Quantum Experience environment. In such case, you will need to install **Qiskit** to your computer. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
 
 Qiskit can be installed by using *pip*:
 
@@ -53,10 +60,19 @@ The challenge content has been shared with the public on the following dates.<br
 
 すべてのExercisesにおいて正解を提出できた方にDigital badgeをお送りします。
 
-事前のApplicationを完了し、Challenge事務局からOfficial confirmationを受け取られた方のみ、Challengeに参加可能です。
+応募フォーム（Application Form）を完了し、Challenge事務局から確認メール（Confirmation Required)を受領し参加確認を行った方のみ、Challengeに参加可能です。
+
+
+## プログラミング環境
+IBM Quantum ExperienceではPythonベースのオープンソースの量子開発フレームワークである**Qiskit**を利用します。
+
+11月9日（月）のチャレンジ開始と同時に、参加者はIQXの専用サイトから、ホスティングされているJupyter Notebook内の問題を閲覧することが可能になります。参加者は自身のコンピュータにはQiskitをインストールすることなく、同ホスティング環境にてコードを記述、実行し、回答を提出することができます。
+
+注）当ChallengeのIQX上の専用サイトは事前登録を済ませたのち、Challenge事務局からの確認メール（Confirmation Required)にて参加確認を行った方のみアクセス可能になります。予めご了承ください。
+
 
 ## 事前準備
-Quantum Challengeでは、**Qiskit** を使ってプログラムを作成します。Qiskitは量子コンピューターを使うためのPythonのオープンソース フレームワークです。パルスや回路、アルゴリズムといった様々なレイヤーで活用することができます。Qiskitの詳細は[Qiskit.org](https://qiskit.org)のページを参照して下さい。
+Challengeで出題されるExercise問題に取り組む際、すべてをIQX上で実行する前に、コードの作成や実行をローカルで試したい方もいらっしゃるでしょう。そういう場合のために、ご自身のパソコン環境にQiskitをインストールしておくことをお勧めします。Qiskitは量子コンピューターを使うためのPythonのオープンソース フレームワークです。パルスや回路、アルゴリズムといった様々なレイヤーで活用することができます。Qiskitの詳細は[Qiskit.org](https://qiskit.org)のページを参照して下さい。
 
 Qiskitは *pip* を用いてインストールできます。
 
