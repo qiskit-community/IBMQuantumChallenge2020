@@ -1,5 +1,6 @@
 <!--![image of qcchallenge logo](qcc_banner.png) -->
 # Welcome to IBM Quantum Challenge!
+[한글 여기요](#ibm-quantum-challenge에 오신 것을 환영합니다)<br/>
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 
 
@@ -7,7 +8,7 @@
 
 As we approach the end of 2020, we would like to engage the community with new exciting set of challenges, and further push limits of our quantum systems to achieve another yet significant milestone. 
 
-2020 년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
+2020년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
 
 Our first competitive coding contest [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)  was held in November 2019, attracting both seasoned coders and newbies from all over the world to start their journey in Quantum Computing.
 In May 2020, we celebrated our fourth anniversary of IBM Quantum Experience with another Challenge where 1,745 people from 45 countries came together to solve four problems making total use of the 18 IBM Quantum systems on the IBM Cloud exceeding 1 billion circuits a day. 
@@ -64,6 +65,46 @@ The challenge content has been shared with the public on the following dates.<br
 | Week 2  |Learning Challenge Exercise II-A <br/>Learning Challenge Exercise II-B|  Nov 16th 2020 |
 | Week 3  |Final Challenge | Nov 23th 2020 |
 
+--------------------------------
+# ibm-quantum-challenge에 오신 것을 환영합니다！
+2020년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
+
+2019 년 11 월에 첫 번째 치열한 코딩 콘테스트 인 [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)가 열렸으며, 전 세계의 노련한 코더와 초보자 모두가 퀀텀 컴퓨팅에서 여정을 시작했습니다. 2020 년 5 월, [IBM Qunatum Experience](https://quantum-computing.ibm.com/)의 4 주년을 기념하여 45 개국 1,745 명이 함께 모여 4 개의 문제를 해결하기 위해 IBM Quantum Experience가 하루에 10 억 개 회로를 초과하는 IBM Cloud의 18 개 IBM Quantum 시스템을 사용했습니다.
+
+11 월 9 일 오전 9시 (KST)부터 양자 컴퓨팅 및 Qiskit에 대한 지식, 기술 및 이해를 높이는 데 도움이되는 3 주간의 새로운 과제를 제공하여 잘 알려진 양자 알고리즘을 사용하여 문제를 해결합니다.
+
+당신의 참여를 인정하여, 우리는 모든 연습문제를 완료한 사람들에게 디지털 배지를 수여하고 있다.
+
+참가 신청 및 챌린지 주최 측의 공식 확인을 받은 자에 한하여 참여가 허용된다는 점에 유의하십시오.
+
+## 코딩 환경
+IBM Quantum Challenge는 IBM Quantum Experience (일명 IQX)에서 호스팅됩니다. IQX를 사용하면 컴퓨터에 아무것도 다운로드하지 않고도 자체 포함 된 Jupyter 노트북 환경에서 양자 회로를 구축, 실행 및 평가할 수 있습니다.
+
+2020 년 11 월 9 일 챌린지 사이트가 열리면 참가자는 코드를 직접 작성하고 실행하고 답변을 제출할 수있는이 독립형 Jupyter 노트북 환경에서 호스팅되는 일련의 연습 문제를 보게됩니다.
+
+이 Jupyter 노트북 환경에서 호스팅되는 연습 문제가있는 챌린지 사이트는 이벤트 주최자로부터 확인 이메일을 받고 참여를 확인한 신청자 만 액세스 할 수 있습니다.
+
+
+## 준비사항
+대부분의 경우 IBM Quantum Experience 환경에서 제출하기 전에 실습을 진행할 때 로컬에서 코드를 실행하는 것을 선호 할 수 있습니다. 이 경우 컴퓨터에 Qiskit을 설치해야합니다. Qiskit은 펄스, 회로 및 알고리즘 수준에서 양자 컴퓨터 작업을위한 Python 기반 오픈 소스 프레임 워크입니다. 자세한 내용은 [Qiskit.org](https://qiskit.org) 페이지를 참조하십시오.
+
+
+Qiskit *pip* 설치할 수 있습니다.
+
+```
+$ pip install qiskit
+```
+차근차근 설치법을 확인해주세요 [Qiskit 설치](https://qiskit.org/documentation/install.html) or [유튜브 비디오](https://www.youtube.com/watch?v=M4EkW4VwhcI) 
+
+## 챌린지 순서
+챌린지 콘텐츠는 다음 날짜에 대중에게 공개되었습니다.<br/>
+
+| 주|도전과제| 업데이트 예정일 |
+| ---     | ---    | --- |
+| Week 0 |[초심자 : 양자계산의 기초](exercises/week-0/ex_0_ja.ipynb)  | 공개됨 |
+| Week 1 |학습 과제 연습 I-A </br> 학습 과제 연습 I-B| 2020-11-09 |
+| Week 2  |학습 과제 연습 II-A</br> 학습 과제 연습 II-B| 2020-11-16 |
+| Week 3  |파이날 챌린지| 2020-11-23 |
 
 --------------------------------
 # IBM Quantum Challengeへようこそ！
