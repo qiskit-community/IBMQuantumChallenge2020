@@ -17,6 +17,7 @@ In May 2020, we celebrated our fourth anniversary of IBM Quantum Experience with
 
 Starting Nov 9th at 9am JST, we present you with three weeks of new challenges that will help grow your knowledge, skills, and understanding of quantum computing and Qiskit to tackle problems using some well-known quantum algorithms.
 
+11 월 9 일 오전 9시 (JST)부터 양자 컴퓨팅 및 Qiskit에 대한 지식, 기술 및 이해를 높이는 데 도움이되는 3 주간의 새로운 과제를 제공하여 잘 알려진 양자 알고리즘을 사용하여 문제를 해결합니다.
 
 In recognition of your participation, we are awarding digital badges to those who complete all exercises.
 
