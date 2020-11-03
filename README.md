@@ -24,6 +24,10 @@ In recognition of your participation, we are awarding digital badges to those wh
 
 Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
 
+당신의 참여를 인정하여, 우리는 모든 연습을 완료한 사람들에게 디지털 배지를 수여하고 있다.
+
+참가 신청 및 챌린지 주최 측의 공식 확인을 받은 자에 한하여 참여가 허용된다는 점에 유의하십시오.
+
 ## Programming Environment
 IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer. 
 
