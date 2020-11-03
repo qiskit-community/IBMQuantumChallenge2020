@@ -44,6 +44,8 @@ IBM Quantum Challenge는 IBM Quantum Experience (일명 IQX)에서 호스팅됩�
 ## Preparation
 In many cases, you may prefer to run your code locally when working on the exercises before you make your submission in the IBM Quantum Experience environment. In such case, you will need to install **Qiskit** to your computer. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
 
+대부분의 경우 IBM Quantum Experience 환경에서 제출하기 전에 실습을 진행할 때 로컬에서 코드를 실행하는 것을 선호 할 수 있습니다. 이 경우 컴퓨터에 Qiskit을 설치해야합니다. Qiskit은 펄스, 회로 및 알고리즘 수준에서 양자 컴퓨터 작업을위한 Python 기반 오픈 소스 프레임 워크입니다. 자세한 내용은 Qiskit.org 페이지를 참조하십시오.
+
 Qiskit can be installed by using *pip*:
 
 ```
