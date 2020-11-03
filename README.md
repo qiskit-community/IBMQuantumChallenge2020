@@ -7,12 +7,12 @@
 
 As we approach the end of 2020, we would like to engage the community with new exciting set of challenges, and further push limits of our quantum systems to achieve another yet significant milestone. 
 
-2020 년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여시키고 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
+2020 년 말이 다가옴에 따라 우리는 새로운 흥미 진진한 도전 과제에 커뮤니티를 참여하고, 양자 시스템의 한계를 더욱 밀어 붙여 또 다른 중요한 이정표를 달성하고자합니다.
 
 Our first competitive coding contest [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)  was held in November 2019, attracting both seasoned coders and newbies from all over the world to start their journey in Quantum Computing.
 In May 2020, we celebrated our fourth anniversary of IBM Quantum Experience with another Challenge where 1,745 people from 45 countries came together to solve four problems making total use of the 18 IBM Quantum systems on the IBM Cloud exceeding 1 billion circuits a day. 
 
-2019 년 11 월에 첫 번째 경쟁 코딩 콘테스트 인 IBM Quantum Challenge가 열렸으며, 전 세계의 노련한 코더와 초보자 모두가 퀀텀 컴퓨팅에서 여정을 시작했습니다. 2020 년 5 월, IBM Quantum Experience의 4 주년을 기념하여 45 개국 1,745 명이 함께 모여 4 개의 문제를 해결하기 위해 IBM Quantum Experience가 하루에 10 억 개 회로를 초과하는 IBM Cloud의 18 개 IBM Quantum 시스템을 사용했습니다.
+2019 년 11 월에 첫 번째 치열한 코딩 콘테스트 인 IBM Quantum Challenge가 열렸으며, 전 세계의 노련한 코더와 초보자 모두가 퀀텀 컴퓨팅에서 여정을 시작했습니다. 2020 년 5 월, IBM Quantum Experience의 4 주년을 기념하여 45 개국 1,745 명이 함께 모여 4 개의 문제를 해결하기 위해 IBM Quantum Experience가 하루에 10 억 개 회로를 초과하는 IBM Cloud의 18 개 IBM Quantum 시스템을 사용했습니다.
 
 
 Starting Nov 9th at 9am JST, we present you with three weeks of new challenges that will help grow your knowledge, skills, and understanding of quantum computing and Qiskit to tackle problems using some well-known quantum algorithms.
@@ -24,7 +24,7 @@ In recognition of your participation, we are awarding digital badges to those wh
 
 Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
 
-당신의 참여를 인정하여, 우리는 모든 연습을 완료한 사람들에게 디지털 배지를 수여하고 있다.
+당신의 참여를 인정하여, 우리는 모든 연습문제를 완료한 사람들에게 디지털 배지를 수여하고 있다.
 
 참가 신청 및 챌린지 주최 측의 공식 확인을 받은 자에 한하여 참여가 허용된다는 점에 유의하십시오.
 
