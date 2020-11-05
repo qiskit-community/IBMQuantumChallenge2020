@@ -2,7 +2,7 @@
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
-[한글은 여기](#ibm-quantum-challenge환영합니다다)<br/>
+[繁體中文](#ibm-quantum-challenge환영합니다다)<br/>
 
 ## Hello, quantum world.
 
@@ -130,7 +130,7 @@ $ pip install qiskit
 | Week 3  |최종 과제 | 2020년 11월 23일 |
 
 --------------------------------
-#ibm-quantum-challenge환영합니다다！
+#ibm-quantum-challenge환영합니다다
 
 隨著2020年接近尾聲，我們將為Qiskit社群帶來另一系列令人興奮的新挑戰，突破我們量子系統的極限，邁入下一個里程碑。
 
