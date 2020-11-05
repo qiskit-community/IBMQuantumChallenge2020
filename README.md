@@ -130,7 +130,7 @@ $ pip install qiskit
 | Week 3  |최종 과제 | 2020년 11월 23일 |
 
 --------------------------------
-# IBM Quantum Challenge 開跑囉！
+# IBM Quantum Challenge開跑囉！
 
 隨著2020年接近尾聲，我們將為Qiskit社群帶來另一系列令人興奮的新挑戰，突破我們量子系統的極限，邁入下一個里程碑。
 
