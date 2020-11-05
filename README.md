@@ -124,7 +124,7 @@ $ pip install qiskit
 
 | Week  | 도전과제 | 시작시간 |
 | ---     | ---    | --- |
-| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_en.ipynb)  | 도전 가능 |
+| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb)  | 도전 가능 |
 | Week 1 |도전 과제 I-A <br/>도전 과제 I-B|  2020년 11월 9일 |
 | Week 2  |도전 과제 II-A <br/>도전 과제 II-B|  2020년 11월 16일 |
 | Week 3  |최종 과제 | 2020년 11월 23일 |
