@@ -2,7 +2,7 @@
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
- 
+[繁體中文](#ibm-quantum-challenge繁體中文)<br/> 
 
 ## Hello, quantum world.
 
@@ -128,3 +128,44 @@ $ pip install qiskit
 | Week 1 |도전 과제 I-A <br/>도전 과제 I-B|  2020년 11월 9일 |
 | Week 2  |도전 과제 II-A <br/>도전 과제 II-B|  2020년 11월 16일 |
 | Week 3  |최종 과제 | 2020년 11월 23일 |
+
+--------------------------------
+# IBM Quantum Challenge 開跑囉！
+隨著2020年接近尾聲，我們將為Qiskit社群帶來另一系列令人興奮的新挑戰，突破我們量子系統的極限，邁入下一個里程碑。
+
+我們在2019年11月的第一次挑戰賽[IBM Quantum Challenge](https://ibmquantum.angelhack.com/)，吸引了世界各地不論是經驗豐富的程式設計師、或初出茅廬的新手，攜手進入量子世界。在今年五月，為了慶祝IBM Quantum Experience邁入第四個年頭，我們準備了另一個挑戰賽並召集了1745位從45個國家來的參賽者，使用了18個IBM量子系統、產生了10億個量子電路解決了四個問題集。
+
+今年，台灣時間11月9號上午8點(9am JST)，我們將展開為期三周的新一期量子挑戰賽，考驗您的量子知識、技能，並對量子電腦與Qiskit有更深層的認識！
+
+為了感謝您的參與，我們也會發給完成所有挑戰賽的朋友數位獎章以資獎勵！
+（請注意，只有已經填寫申請與收到Qiskit官方確認信通知的挑戰者能參與此次挑戰以取得數位獎章。）
+
+## 程式撰寫環境
+IBM量子挑戰將在IBM Quantum Experience (IQX)上舉行，在IQX上使用者得以在網頁預載的遠端環境中進行量子電路的設計、執行與評估，無須於個人電腦上下載、安裝任何軟體。
+
+挑戰平台的網頁將會在台灣時間11月9號上午8點開放，屆時您可在其預載之Jupyter notebook環境中撰寫程式，並直接上傳您的解法。
+（再次注意，只有已經填寫申請與收到Qiskit官方確認信通知的挑戰者，方能進入挑戰平台的網頁）
+
+## 事前預備工作
+在某些情況下，您可能傾向在上傳您的解法前於您的個人電腦中單獨撰寫，而在此情況下，您將需要安裝**Qiskit**到您的電腦。Qiskit是一個以Python為基礎的開放原始碼模組，可對量子電腦從脈衝、電路到演算法進行各個層級的操作。詳情請見[Qiskit.org](https://qiskit.org)。
+
+您可使用*pip*指令安裝Qiskit如下：
+
+```
+$ pip install qiskit
+```
+
+安裝細節請參考 [Install Qiskit](https://qiskit.org/documentation/install.html) 或 [YouTube video](https://www.youtube.com/watch?v=M4EkW4VwhcI)
+
+## 挑戰賽日程表
+The challenge content has been shared with the public on the following dates.<br/>
+底下為挑戰賽已公布之日程表
+
+| 週　數 | Challenge | Available on (JST) |
+| 　　　 | ---    | --- |
+| 第零周 |[新手挑戰: The atoms of computation](exercises/week-0/ex_0_en.ipynb)  | 已開始！ |
+| 第一周 | 學習挑戰I-A <br/> 學習挑戰 I-B|  11月9號 2020 |
+| 第二周 | 學習挑戰II-A <br/> 學習挑戰 II-B|  11月16號 2020 |
+| 第三周 | 最終挑戰 | 11月23號 2020 |
+
+--------------------------------
