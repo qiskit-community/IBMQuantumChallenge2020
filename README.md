@@ -2,7 +2,7 @@
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
-[繁體中文](# ibm-quantum-challenge환영합니다다！)<br/> 
+[繁體中文](#ibm-quantum-challenge환영합니다다！)<br/> 
 
 ## Hello, quantum world.
 
