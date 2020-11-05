@@ -15,7 +15,7 @@ Starting Nov 9th at 9am JST, we present you with three weeks of new challenges t
 
 In recognition of your participation, we are awarding digital badges to those who complete all exercises.
 
-Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
+Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
 
 ## Programming Environment
 IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer. 
