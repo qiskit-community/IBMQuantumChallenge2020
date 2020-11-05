@@ -2,7 +2,7 @@
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
-[繁體中文](#ibm-quantum-challenge繁體中文)<br/> 
+[繁體中文](#ibm-quantum-challenge 開跑囉！)<br/> 
 
 ## Hello, quantum world.
 
@@ -162,7 +162,7 @@ The challenge content has been shared with the public on the following dates.<br
 底下為挑戰賽已公布之日程表
 
 | 週　數 | Challenge | Available on (JST) |
-| 　　　 | ---    | --- |
+| 　　　 | --- | --- |
 | 第零周 |[新手挑戰: The atoms of computation](exercises/week-0/ex_0_en.ipynb)  | 已開始！ |
 | 第一周 | 學習挑戰I-A <br/> 學習挑戰 I-B|  11月9號 2020 |
 | 第二周 | 學習挑戰II-A <br/> 學習挑戰 II-B|  11月16號 2020 |
