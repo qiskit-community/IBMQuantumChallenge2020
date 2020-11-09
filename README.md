@@ -41,7 +41,7 @@ The challenge content has been shared with the public on the following dates.<br
 | Week  | Challenge | Available on (JST) |
 | ---     | ---    | --- |
 | Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb)  | Now Live |
-| Week 1 |Learning Challenge Exercise I-A <br/>Learning Challenge Exercise I-B|  Nov 9th 2020 |
+| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  Nov 9th 2020 |
 | Week 2  |Learning Challenge Exercise II-A <br/>Learning Challenge Exercise II-B|  Nov 16th 2020 |
 | Week 3  |Final Challenge | Nov 23th 2020 |
 
@@ -82,7 +82,7 @@ $ pip install qiskit
 | ウィーク | チャレンジ | 更新予定日 |
 | ---     | ---    | --- |
 | Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb)  | 公開済み |
-| Week 1 |ラーニングチャレンジ演習 I-A </br> ラーニングチャレンジ演習 I-B| Nov 9th 2020 |
+| Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) </br> [ラーニングチャレンジ演習 I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)| Nov 9th 2020 |
 | Week 2  |ラーニングチャレンジ演習 II-A</br> ラーニングチャレンジ演習 II-B| Nov 16th 2020 |
 | Week 3  |ファイナルチャレンジ(本戦)| Nov 23th 2020 |
 
