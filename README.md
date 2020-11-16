@@ -83,7 +83,7 @@ $ pip install qiskit
 | ---     | ---    | --- |
 | Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb)  | 公開済み |
 | Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) </br> [ラーニングチャレンジ演習 I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)| Nov 9th 2020 |
-| Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb)(</br> [ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| Nov 16th 2020 |
+| Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb)</br> [ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| Nov 16th 2020 |
 | Week 3  |ファイナルチャレンジ(本戦)| Nov 23th 2020 |
 
 --------------------------------
