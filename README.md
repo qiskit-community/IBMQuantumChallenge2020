@@ -38,12 +38,12 @@ Please check out [Install Qiskit](https://qiskit.org/documentation/install.html)
 ## Challenge Index
 The challenge content has been shared with the public on the following dates.<br/>
 
-| Week  | Challenge | Available on (JST) |
-| ---     | ---    | --- |
-| Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb)  | Now Live |
-| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  Nov 9th 2020 |
-| Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)|  Nov 16th 2020 |
-| Week 3  |Final Challenge | Nov 23th 2020 |
+| Week  | Challenge | Message from Dr. Ryoko |　Available on (JST) |
+| ---     | ---    | --- |  --- |
+| Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb) | [Ep.1](https://youtu.be/eLw7fWb2xv4) |Now Live | 
+| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  [Ep.2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 | 
+| Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)| [Ep.3](https://youtu.be/kLizHnvTguE) [Ep.4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
+| Week 3  |[Final Challenge](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_en.ipynb) | [Ep.5](https://youtu.be/Bkk5-j6rpoM) | Nov 23rd 2020 |
 
 --------------------------------
 # IBM Quantum Challengeへようこそ！
@@ -79,12 +79,12 @@ $ pip install qiskit
 ## チャレンジ内容
 毎週以下の日付にそれぞれのチャレンジ内容を更新します。<br/>
 
-| ウィーク | チャレンジ | 更新予定日 |
-| ---     | ---    | --- |
-| Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb)  | 公開済み |
-| Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) </br> [ラーニングチャレンジ演習 I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)| Nov 9th 2020 |
-| Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb)</br> [ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| Nov 16th 2020 |
-| Week 3  |ファイナルチャレンジ(本戦)| Nov 23th 2020 |
+| ウィーク | チャレンジ | Dr.リョウコからのメッセージ | 更新日 |
+| ---     | ---   | --- |　--- |
+| Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb)  | [Ep.1](https://youtu.be/eLw7fWb2xv4) | 公開済み |
+| Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) </br> [ラーニングチャレンジ演習 I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)| [Ep.2](https://youtu.be/f8TEd_51rHI) |  Nov 9th 2020 |
+| Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb)</br> [ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| [Ep.3](https://youtu.be/kLizHnvTguE) [Ep.4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
+| Week 3  |[ファイナルチャレンジ(本戦)](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_ja.ipynb)|[Ep.5](https://youtu.be/Bkk5-j6rpoM) | Nov 23rd 2020 |
 
 --------------------------------
 # ibm-quantum-challenge환영합니다！
