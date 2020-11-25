@@ -4,6 +4,9 @@
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
  
 
+## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
+
+
 ## Hello, quantum world.
 
 As we approach the end of 2020, we would like to engage the community with new exciting set of challenges, and further push limits of our quantum systems to achieve another yet significant milestone. 
@@ -45,8 +48,28 @@ The challenge content has been shared with the public on the following dates.<br
 | Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
 | Week 3  |[Final Challenge](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_en.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | Nov 23rd 2020 |
 
+
+## Final Exercise Submission Rules
+For valid submissions we ask that your solution adheres to the below rule.<br/>
+* Please implement the quantum circuit within **28 qubits**.
+* Use Grover's algorithm you learned in Week1 & 2 with **iteration ＝ 1**.
+* The initial state for Grover's algorithm must be equal probability distributions. For example, if you want use only 3 computational bases for 2 qubits instead of 4 as the initial state. Then, the state will be sqrt(1/3)(|00⟩+|01⟩+|11⟩).
+* Please note that you can get the answer with the same endian as the one used in Week2 explanation. You should map the index of the problem into four classical registers c[0:4] in binary. c[0] is the highest bit and c[3] is the lowest bit. For example, when mapping 12, the furthest left bit of 1100 will be mapped to c[0].
+* Make sure you **create an oracle** that **doesn't require knowledge of what the answers are**. (For example, you are not allowed to create an oracle by using a classical optimization solver to get your answers for it.)  
+With the exception of the Unroller, which is required for decomposing your circuit to calculate quantum costs, you are not allowed to use any existing transpiler passes nor original transpilers for making simplifications in this competition.
+* Please **do not run jobs in succession** even if you are concerned that your job is not running properly. This can create a long queue and clog the backend. You can check whether your job is running properly at: https://quantum-computing.ibm.com/results  
+* Your score for this exercise will be same as the cost of your QuantumCircuit. The lower the cost, the better.
+* Judges will check top 10 solutions manually to see if the solutions adhere to the rules. **Please note that your ranking is subject to change after the challenge period as a result of the judging process**. 
+* Top 10 participants will be recognized and asked to submit a write up on how they solved the exercise.
+* **When mapping the board information into your quantum circuit, you must not change the board information from the original one. (i.e. Do not rearrange the asteroid positions, nor rotate, invert, swap rows and columns.)** 
+<br/>
+
 --------------------------------
 # IBM Quantum Challengeへようこそ！
+
+## 重要：[最終問題の提出ルール](#final-exercise-submission-rules)<br/>
+
+<br/>
 2020年も終わりに近づいてまいりましたが、量子コンピューティングの世界の新たな挑戦にご案内したいと思います。皆さんで一緒に量子の世界の新たなマイルストーンを達成しましょう！
 
 2019年11月に初めて開催した[IBM Quantum Challenge](https://ibmquantum.angelhack.com/)では、量子情報の専門家から初心者の方まで多くの方にご参加いただきました。[IBM Qunatum Experience](https://quantum-computing.ibm.com/)誕生から4周年を祝して開催された2020年5月のIBM Quantum Challengeでは、45ヶ国から1745人の方が参加し、期間中に、18台のIBMの量子コンピューターシステムにおいて、1日に10億回の量子回路の計算が実行されました。
@@ -89,6 +112,9 @@ $ pip install qiskit
 
 --------------------------------
 # ibm-quantum-challenge환영합니다！
+
+## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
+
 2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.  
 
 2019년 11월에 처음으로 시작된 [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)는 전 세계의 많은 개발자들과 입문자들을 양자컴퓨터로의 여정으로 인도했습니다. 그리고 2020년 5월, IBM Quantum Experience의 4주년을 기념하여 열린 [IBM Qunatum Experience](https://quantum-computing.ibm.com/)에서 총 45개국에서 온 1745명의 참가자들은 4개의 문제를 풀기 위해 IBM 클라우드를 통해 총 18개의 IBM Quantum systems을 사용하여, 하루 기준 10억 개의 양자 회로 연산 수행 기록을 달성했습니다.
