@@ -125,6 +125,6 @@ $ pip install qiskit
 | Week  | 도전 과제 | 료코 박사의 메시지 |　Available on (KST) |
 | ---     | ---    | --- |  --- |
 | Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 도전 가능 | 
-| Week 1 |[도전 과제 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 | 
-| Week 2  |[도전 과제 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ko.ipynb) <br/>[도전 과제 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ko.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | 도전 가능 |
-| Week 3  |[최종 과제](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | 도전 가능 |
+| Week 1 |[도전 과제 I-A](exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 | 
+| Week 2  |[도전 과제 II-A](exercises/week-2/ex_2a_ko.ipynb) <br/>[도전 과제 II-B](exercises/week-2/ex_2b_ko.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | 도전 가능 |
+| Week 3  |[최종 과제](exercise/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | 도전 가능 |
