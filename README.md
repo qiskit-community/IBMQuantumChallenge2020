@@ -113,7 +113,7 @@ $ pip install qiskit
 --------------------------------
 # ibm-quantum-challenge환영합니다！
 
-## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
+## 중요 : [최종 과제 제출 규칙](#final-exercise-submission-rules)<br/>
 
 2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.  
 
@@ -148,10 +148,9 @@ $ pip install qiskit
 
 ## 도전 순서
 도전 과제는 다음의 날짜에 공개됩니다.<br/>
-
-| Week  | 도전과제 | 시작시간 |
-| ---     | ---    | --- |
-| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb)  | 도전 가능 |
-| Week 1 |도전 과제 I-A <br/>도전 과제 I-B|  2020년 11월 9일 |
-| Week 2  |도전 과제 II-A <br/>도전 과제 II-B|  2020년 11월 16일 |
-| Week 3  |최종 과제 | 2020년 11월 23일 |
+| Week  | 도전 과제 | 료코 박사의 메시지 |　Available on (KST) |
+| ---     | ---    | --- |  --- |
+| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 도전 가능 | 
+| Week 1 |[도전 과제 I-A](exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 | 
+| Week 2  |[도전 과제 II-A](exercises/week-2/ex_2a_ko.ipynb) <br/>[도전 과제 II-B](exercises/week-2/ex_2b_ko.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | 도전 가능 |
+| Week 3  |[최종 과제](exercises/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | 도전 가능 |
