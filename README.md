@@ -113,7 +113,7 @@ $ pip install qiskit
 --------------------------------
 # ibm-quantum-challenge환영합니다！
 
-## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
+## 중요 : [최종 과제 제출 규칙](#final-exercise-submission-rules)
 
 2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.  
 
