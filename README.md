@@ -3,7 +3,7 @@
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
  
-
+## Thank you! We have completed this challenge on Nov 30th, 2020. 
 ## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
 
 
@@ -66,7 +66,7 @@ With the exception of the Unroller, which is required for decomposing your circu
 
 --------------------------------
 # IBM Quantum Challengeへようこそ！
-
+## 当コンテストは2020年11月30日に終了しました。
 ## 重要：[最終問題の提出ルール](#final-exercise-submission-rules)<br/>
 
 <br/>
@@ -112,7 +112,7 @@ $ pip install qiskit
 
 --------------------------------
 # ibm-quantum-challenge환영합니다！
-
+## Thank you! We have completed this challenge on Nov 30th, 2020.
 ## 중요 : [최종 과제 제출 규칙](#final-exercise-submission-rules)<br/>
 
 2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.  
