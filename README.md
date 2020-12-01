@@ -46,7 +46,7 @@ The challenge content has been shared with the public on the following dates.<br
 | Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) |Now Live | 
 | Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 | 
 | Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
-| Week 3  |[Final Challenge](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_en.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | Nov 23rd 2020 |
+| Week 3  |[Final Challenge](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_en.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | Nov 23rd 2020 |
 
 
 ## Final Exercise Submission Rules
@@ -107,7 +107,7 @@ $ pip install qiskit
 | Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 公開済み | 
 | Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) <br/>[ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 | 
 | Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb) <br/>[ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
-| Week 3  |[ファイナルチャレンジ(本戦)](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_ja.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | Nov 23rd 2020 |
+| Week 3  |[ファイナルチャレンジ(本戦)](https://quantum-computing.ibm.com/jupyter/user/IBMQuantumChallenge2020/week-3/final_ja.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | Nov 23rd 2020 |
 
 
 --------------------------------
@@ -153,4 +153,4 @@ $ pip install qiskit
 | Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 도전 가능 | 
 | Week 1 |[도전 과제 I-A](exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 | 
 | Week 2  |[도전 과제 II-A](exercises/week-2/ex_2a_ko.ipynb) <br/>[도전 과제 II-B](exercises/week-2/ex_2b_ko.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | 도전 가능 |
-| Week 3  |[최종 과제](exercises/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) | 도전 가능 |
+| Week 3  |[최종 과제](exercises/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | 도전 가능 |
