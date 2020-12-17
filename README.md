@@ -2,8 +2,27 @@
 # Welcome to IBM Quantum Challenge!
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
- 
-## Thank you! We have completed this challenge on Nov 30th, 2020. 
+
+## Thank you! We have completed this challenge on Nov 30th, 2020.
+
+## Leaderboard
+The [Leaderboard](./solutions/leaderboard.md) shows the top ten scores and standings of contestants who have submitted their code to the final exercise.
+
+## How to Solve the Final Exercise
+[Sample solutions](./solutions/week-3/ex_3_solution_en.ipynb): Example solution to the final exercise with honorary mentions to the top three scorers by our judges.
+
+## Top Scorers’ Solutions
+[Top Scorers’ Solutions](https://github.com/qiskit-community/IBMQuantumChallenge2020/tree/main/submissions): How did the top scorers tackle this problem? Check out their unique and excellent solutions.
+
+
+## The Story behind IBM Quantum Chellenge
+You can explore each story behind the adventure of Dr. Ryoko.
+
+|[Episode 1](https://youtu.be/eLw7fWb2xv4) |[Episode 2](https://youtu.be/f8TEd_51rHI) |[Episode 3](https://youtu.be/kLizHnvTguE)|[Episode 4](https://youtu.be/25PcR5Pn4hk) | [Episode 5](https://youtu.be/Bkk5-j6rpoM) |[Episode 6](https://youtu.be/EC2Dc1QgLZY) |
+| --- | --- | --- | --- | --- | --- |
+| ![image of ep1](./fig/ep1.png)  | ![image of ep2](./fig/ep2.png)  | ![image of ep3](./fig/ep3.png)  | ![image of ep4](./fig/ep4.png) | ![image of ep5](./fig/ep5.png)  | ![image of ep6](./fig/ep6.png) |
+<br/>
+
 ## IMPORTANT : [Final exercise submission rules](#final-exercise-submission-rules)
 
 
@@ -21,11 +40,11 @@ In recognition of your participation, we are awarding digital badges to those wh
 Note that participation is allowed for those who have applied and received official confirmation from the challenge organizers only. 
 
 ## Programming Environment
-IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer. 
+IBM Quantum Challenge will be hosted on IBM Quantum Experience (a.k.a. IQX). IQX allows you to build, execute and evaluate your quantum circuits within a self-contained Jupyter notebook environment without downloading anything to your computer.
 
-On Nov 9, 2020 when the challenge site opens, participants will see a set of exercises hosted in this self-contained Jupyter notebook environment where you can write and run your code directly from and make submissions of your answers. 
+On Nov 9, 2020 when the challenge site opens, participants will see a set of exercises hosted in this self-contained Jupyter notebook environment where you can write and run your code directly from and make submissions of your answers.
 
-Please note that the challenge site with exercises hosted in this Jupyter notebook environment is only accessible by applicants who confirmed participation upon receiving a confirmation email from the event organizers. 
+Please note that the challenge site with exercises hosted in this Jupyter notebook environment is only accessible by applicants who confirmed participation upon receiving a confirmation email from the event organizers.
 
 ## Preparation
 In many cases, you may prefer to run your code locally when working on the exercises before you make your submission in the IBM Quantum Experience environment. In such case, you will need to install **Qiskit** to your computer. Qiskit is a Python based opensource framework for working with quantum computers at the level of pulses, circuits, and algorithms. Please see the [Qiskit.org](https://qiskit.org) page for more details.
@@ -43,10 +62,11 @@ The challenge content has been shared with the public on the following dates.<br
 
 | Week  | Challenge | Message from Dr. Ryoko |　Available on (JST) |
 | ---     | ---    | --- |  --- |
-| Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) |Now Live | 
-| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 | 
+| Week 0 |[For Beginners: The atoms of computation](exercises/week-0/ex_0_en.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) |Now Live |
+| Week 1 |[Learning Challenge Exercise I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_en.ipynb) <br/>[Learning Challenge Exercise I-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_en.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 |
 | Week 2  |[Learning Challenge Exercise II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_en.ipynb) <br/>[Learning Challenge Exercise II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_en.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
-| Week 3  |[Final Challenge](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-3/final_en.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | Nov 23rd 2020 |
+| Week 3  |[Final Challenge](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-3/final_en.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/EC2Dc1QgLZY) | Nov 23rd 2020 |
+ <br/>
 
 
 ## Final Exercise Submission Rules
@@ -64,9 +84,21 @@ With the exception of the Unroller, which is required for decomposing your circu
 * **When mapping the board information into your quantum circuit, you must not change the board information from the original one. (i.e. Do not rearrange the asteroid positions, nor rotate, invert, swap rows and columns.)** 
 <br/>
 
+
+
+
 --------------------------------
 # IBM Quantum Challengeへようこそ！
 ## 当コンテストは2020年11月30日に終了しました。
+## 順位表
+[順位表](./solutions/leaderboard.md): ファイナルチャレンジのトップ10のランキング表です。
+
+## 最終問題の解法解説
+[最終問題解説](./solutions/week-3/ex_3_solution_ja.ipynb):ジャッジによる最終問題の解法例です。競技者の皆さんの独創的で素晴らしい解法↓↓↓もぜひチェックしてください。
+
+## トップ10の解法解説
+[トップの解法解説](https://github.com/qiskit-community/IBMQuantumChallenge2020/tree/main/submissions): トップ10にランキングした皆さんが最終問題にどう挑んだのか。アプローチ、駆使したテクニックなどを公開しています。
+
 ## 重要：[最終問題の提出ルール](#final-exercise-submission-rules)<br/>
 
 <br/>
@@ -104,10 +136,10 @@ $ pip install qiskit
 
 | ウィーク |  チャレンジ | Dr.リョウコからのメッセージ  |　 更新日 |
 | ---     | ---    | --- |  --- |
-| Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 公開済み | 
-| Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) <br/>[ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 | 
+| Week 0 |[初心者向け:量子計算の基礎](exercises/week-0/ex_0_ja.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 公開済み |
+| Week 1 |[ラーニングチャレンジ演習 I-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1a_ja.ipynb) <br/>[ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/iqx/exercises/week-1/ex_1b_ja.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | Nov 9th 2020 |
 | Week 2  |[ラーニングチャレンジ演習 II-A](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2a_ja.ipynb) <br/>[ラーニングチャレンジ演習 II-B](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-2/ex_2b_ja.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | Nov 16th 2020 |
-| Week 3  |[ファイナルチャレンジ(本戦)](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-3/final_ja.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | Nov 23rd 2020 |
+| Week 3  |[ファイナルチャレンジ(本戦)](https://github.com/qiskit-community/IBMQuantumChallenge2020/blob/main/exercises/week-3/final_ja.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/EC2Dc1QgLZY) | Nov 23rd 2020 |
 
 
 --------------------------------
@@ -115,11 +147,11 @@ $ pip install qiskit
 ## Thank you! We have completed this challenge on Nov 30th, 2020.
 ## 중요 : [최종 과제 제출 규칙](#final-exercise-submission-rules)<br/>
 
-2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.  
+2020년 말이 다가오는 시점에 커뮤니티 여러분을 위해 양자 시스템의 한계를 뚫고 나아가 새로운 이정표를 달성할 수 있는 새롭고 흥미 진진한 챌린지를 준비했습니다.
 
 2019년 11월에 처음으로 시작된 [IBM Quantum Challenge](https://ibmquantum.angelhack.com/)는 전 세계의 많은 개발자들과 입문자들을 양자컴퓨터로의 여정으로 인도했습니다. 그리고 2020년 5월, IBM Quantum Experience의 4주년을 기념하여 열린 [IBM Qunatum Experience](https://quantum-computing.ibm.com/)에서 총 45개국에서 온 1745명의 참가자들은 4개의 문제를 풀기 위해 IBM 클라우드를 통해 총 18개의 IBM Quantum systems을 사용하여, 하루 기준 10억 개의 양자 회로 연산 수행 기록을 달성했습니다.
 
-돌아오는 11월 9일 오전 9시부터, 몇 가지의 잘 알려진 양자 알고리즘을 사용해 양자컴퓨팅과 Qiskit에 대한 지식과 기술을 높일 수 있는 과제가 준비되어 있는 3주간의 새로운 챌린지가 시작됩니다. 
+돌아오는 11월 9일 오전 9시부터, 몇 가지의 잘 알려진 양자 알고리즘을 사용해 양자컴퓨팅과 Qiskit에 대한 지식과 기술을 높일 수 있는 과제가 준비되어 있는 3주간의 새로운 챌린지가 시작됩니다.
 
 연습문제를 모두 성공적으로 완료한 참가자에게는 디지털 배지가 수여됩니다.
 
@@ -150,7 +182,7 @@ $ pip install qiskit
 도전 과제는 다음의 날짜에 공개됩니다.<br/>
 | Week  | 도전 과제 | 료코 박사의 메시지 |　Available on (KST) |
 | ---     | ---    | --- |  --- |
-| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 도전 가능 | 
-| Week 1 |[도전 과제 I-A](exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 | 
+| Week 0 |[초보자 대상: 양자 컴퓨팅의 기초](exercises/week-0/ex_0_ko.ipynb) | [Episode 1](https://youtu.be/eLw7fWb2xv4) | 도전 가능 |
+| Week 1 |[도전 과제 I-A](exercises/week-1/ex_1a_ko.ipynb) <br/>[도전 과제 I-B](exercises/week-1/ex_1b_ko.ipynb)|  [Episode 2](https://youtu.be/f8TEd_51rHI) | 도전 가능 |
 | Week 2  |[도전 과제 II-A](exercises/week-2/ex_2a_ko.ipynb) <br/>[도전 과제 II-B](exercises/week-2/ex_2b_ko.ipynb)| [Episode 3](https://youtu.be/kLizHnvTguE), [Episode 4](https://youtu.be/25PcR5Pn4hk) | 도전 가능 |
-| Week 3  |[최종 과제](exercises/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/0wXb8UWO-xs) | 도전 가능 |
+| Week 3  |[최종 과제](exercises/week-3/final_ko.ipynb) | [Episode 5](https://youtu.be/Bkk5-j6rpoM), [Episode 6](https://youtu.be/EC2Dc1QgLZY) | 도전 가능 |
