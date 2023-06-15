@@ -1,5 +1,9 @@
 <!--![image of qcchallenge logo](qcc_banner.png) -->
 # Welcome to IBM Quantum Challenge!
+
+[![License](https://img.shields.io/github/license/qiskit-community/IBMQuantumChallenge2020.svg)](https://opensource.org/licenses/Apache-2.0)<!--- long-description-skip-begin -->![Last updated](https://img.shields.io/github/last-commit/qiskit-community/IBMQuantumChallenge2020/main?label=Last%20updated&style=flat)
+
+
 [日本語はこちら](#ibm-quantum-challengeへようこそ)<br/>
 [한글은 여기](#ibm-quantum-challenge환영합니다)<br/>
 
